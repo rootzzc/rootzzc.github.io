@@ -7,7 +7,7 @@ title: rootzzc的博客
 subtitle: ''
 description: '记录日常开发'
 keywords:
-author: RootZ ZC
+author: rootzzc
 language: zh-CN 
 timezone: 'Asia/Shanghai'
 
@@ -103,3 +103,7 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+menu:
+	 - { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
+
+banner_img_height: 0

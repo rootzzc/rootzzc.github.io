@@ -1,0 +1,28 @@
+05:31:49.404 DEBUG Writing database to /Users/zhouchao/Documents/编程/blog/db.json
+05:31:49.409 DEBUG Hexo version: 6.3.0
+05:31:49.409 DEBUG Working directory: ~/Documents/编程/blog/
+05:31:49.440 DEBUG Config loaded: ~/Documents/编程/blog/_config.yml
+05:31:49.440 INFO  Validating config
+05:31:49.448 DEBUG Plugin loaded: hexo-generator-category
+05:31:49.448 DEBUG Plugin loaded: hexo-generator-index
+05:31:49.449 DEBUG Plugin loaded: hexo-generator-tag
+05:31:49.449 DEBUG Plugin loaded: hexo-renderer-ejs
+05:31:49.484 DEBUG Plugin loaded: hexo-renderer-stylus
+05:31:49.544 DEBUG Plugin loaded: hexo-generator-archive
+05:31:49.544 DEBUG Plugin loaded: hexo-server
+05:31:49.544 DEBUG Plugin loaded: hexo-renderer-marked
+05:31:49.545 DEBUG Loading database.
+05:31:49.561 INFO  Start processing
+05:31:49.566 DEBUG Processed: _posts/使用Hexo和Github部署个人博客.md
+05:31:49.566 DEBUG Processed: about/index.md
+05:31:49.566 DEBUG Processed: img/cover.jpg
+05:31:49.570 DEBUG Generator: asset
+05:31:49.570 DEBUG Generator: page
+05:31:49.570 DEBUG Generator: post
+05:31:49.571 DEBUG Generator: category
+05:31:49.571 DEBUG Generator: index
+05:31:49.571 DEBUG Generator: tag
+05:31:49.571 DEBUG Generator: archive
+05:31:49.575 INFO  Files loaded in 31 ms
+05:31:49.578 INFO  0 files generated in 3.07 ms
+05:31:49.580 DEBUG Database saved
