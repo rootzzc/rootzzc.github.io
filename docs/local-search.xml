@@ -4,6 +4,32 @@
   
   
   <entry>
+    <title>哲学家就餐</title>
+    <link href="/2023/11/20/%E5%93%B2%E5%AD%A6%E5%AE%B6%E5%B0%B1%E9%A4%90/"/>
+    <url>/2023/11/20/%E5%93%B2%E5%AD%A6%E5%AE%B6%E5%B0%B1%E9%A4%90/</url>
+    
+    <content type="html"><![CDATA[<h1 id="问题简介"><a href="#问题简介" class="headerlink" title="问题简介"></a>问题简介</h1><p>五个哲学家围坐在圆形的餐桌前，每个哲学家之间有一个叉子，每个哲学家不是在思考就是在进餐，哲学家需要拿到左右手边两个叉子才能进餐，并且哲学家之间不能交流，如何保证每个哲学家都能就餐。</p><p>哲学家就餐问题是典型的多线程共享资源访问问题，问题的难点在于如何避免死锁导致饥饿的情况，放在哲学家就餐问题语境下，饥饿情况就是所有人都拿到左手边的叉子，所有人都因无法获得右手边叉子，导致所有人无法进餐。</p><h1 id="解决方案"><a href="#解决方案" class="headerlink" title="解决方案"></a>解决方案</h1>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>实用小工具</title>
+    <link href="/2023/11/15/%E5%AE%9E%E7%94%A8%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
+    <url>/2023/11/15/%E5%AE%9E%E7%94%A8%E5%B0%8F%E5%B7%A5%E5%85%B7/</url>
+    
+    <content type="html"><![CDATA[<p>记录一下在学习中实用的小工具</p><h1 id="文件分享"><a href="#文件分享" class="headerlink" title="文件分享"></a>文件分享</h1><p>不同的设备之间如何分享文件呢？或许可以直接用U盘拷贝（太麻烦），用通讯软件、网盘分享（数据不安全，而且可能被限速），如果在局域网中，可以在文件主机上运行服务器，局域网中其他主机可以通过网络直接访问文件，从而避免使用第三方平台。</p><p>以下是几种工具：</p><ul><li>npm serve</li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>学术研究</title>
     <link href="/2023/11/11/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/"/>
     <url>/2023/11/11/%E5%AD%A6%E6%9C%AF%E7%A0%94%E7%A9%B6/</url>
@@ -21,7 +47,7 @@
     <link href="/2023/11/10/%E5%AD%A6%E4%B9%A0%E6%B8%85%E5%8D%95/"/>
     <url>/2023/11/10/%E5%AD%A6%E4%B9%A0%E6%B8%85%E5%8D%95/</url>
     
-    <content type="html"><![CDATA[<p>记录总结一下优质的学习资源，共勉。</p><h1 id="操作系统"><a href="#操作系统" class="headerlink" title="操作系统"></a>操作系统</h1><p>书籍：</p><ul><li>操作系统导论</li></ul><p>课程：</p><ul><li>6.s081 &#x2F; Fall 2021：本科生课程</li><li>6.828：研究生课程</li></ul><h1 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库</h1><p>课程：</p><ul><li>PingCAP Talent Plan</li><li>CMU 15-445&#x2F;645</li></ul><p>博客：</p><ul><li><a href="http://bigspring.cn/">一树一溪</a> MySQL源码分析</li></ul><h1 id="分布式系统"><a href="#分布式系统" class="headerlink" title="分布式系统"></a>分布式系统</h1><p>书籍：</p><ul><li>数据密集型应用系统</li></ul><p>课程：</p><ul><li>6.824</li></ul><h1 id="算法"><a href="#算法" class="headerlink" title="算法"></a>算法</h1><p>书籍：</p><ul><li>算法设计手册</li></ul><p>论坛：</p><ul><li>leetcode</li><li>洛谷</li></ul><p>博客：</p><ul><li><a href="http://www.oier.cc/">OIER</a></li><li><a href="https://oi-wiki.org/#oi-wiki">OI wiki</a></li><li><a href="https://www.hello-algo.com/">hello算法</a></li><li><a href="https://leetcode.cn/leetbook/read/illustration-of-algorithm/55187i/">图解数据结构和算法</a></li></ul><h1 id="计算机网络"><a href="#计算机网络" class="headerlink" title="计算机网络"></a>计算机网络</h1><p>书籍：</p><ul><li>计算机网络：自顶向下方法</li><li>TCP&#x2F;IP详解</li></ul><h1 id="软件工程"><a href="#软件工程" class="headerlink" title="软件工程"></a>软件工程</h1><p>书籍：</p><ul><li>蓝月神话</li><li>敏捷软件开发</li></ul><h1 id="设计模式"><a href="#设计模式" class="headerlink" title="设计模式"></a>设计模式</h1><p>博客：</p><ul><li><a href="https://refactoringguru.cn/design-patterns/catalog">guru设计模式</a></li><li><a href="https://design-patterns.readthedocs.io/zh_CN/latest/index.html">图说设计模式</a></li></ul><h1 id="C-学习"><a href="#C-学习" class="headerlink" title="C++学习"></a>C++学习</h1><p>书籍：</p><ul><li>C++ Primer</li><li>Effective C++</li></ul><p>博客：</p><ul><li><a href="https://hackingcpp.com/index.html">hacker cpp</a></li><li><a href="https://en.cppreference.com/w/">cppreference</a></li></ul><h1 id="优质开源项目源码学习"><a href="#优质开源项目源码学习" class="headerlink" title="优质开源项目源码学习"></a>优质开源项目源码学习</h1><ul><li>libevent</li><li>asio</li><li>git</li><li>folly</li><li>wangle</li><li>muduo</li></ul><h1 id="资源博客"><a href="#资源博客" class="headerlink" title="资源博客"></a>资源博客</h1><ul><li><a href="https://www.xiaolincoding.com/network/3_tcp/tcp_interview.html#tcp-%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E8%BF%87%E7%A8%8B%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84">小林的博客，网络，操作系统，数据库</a></li><li><a href="https://interviewguide.cn/">阿秀</a></li><li><a href="https://programmercarl.com/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html">代码随想录</a></li><li><a href="https://wangdoc.com/">网道，中文技术文档，ssh，bash</a></li><li><a href="https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md">teach yourself</a></li></ul>]]></content>
+    <content type="html"><![CDATA[<p>记录总结一下优质的学习资源，共勉。</p><h1 id="操作系统"><a href="#操作系统" class="headerlink" title="操作系统"></a>操作系统</h1><p>书籍：</p><ul><li>操作系统导论</li><li>深入理解计算机系统</li><li>Computer Architecture: A Quantitative Approach</li></ul><p>课程：</p><ul><li>6.s081 &#x2F; Fall 2021：本科生课程</li><li>6.828：研究生课程</li></ul><h1 id="数据库"><a href="#数据库" class="headerlink" title="数据库"></a>数据库</h1><p>书籍：</p><ul><li>MySQL必知必会</li></ul><p>课程：</p><ul><li>PingCAP Talent Plan</li><li>CMU 15-445&#x2F;645</li></ul><p>博客：</p><ul><li><a href="http://bigspring.cn/">一树一溪</a> MySQL源码分析</li></ul><h1 id="分布式系统"><a href="#分布式系统" class="headerlink" title="分布式系统"></a>分布式系统</h1><p>书籍：</p><ul><li>数据密集型应用系统</li></ul><p>课程：</p><ul><li>6.824</li></ul><h1 id="算法"><a href="#算法" class="headerlink" title="算法"></a>算法</h1><p>书籍：</p><ul><li>算法设计手册</li><li>计算机科学中的数学</li></ul><p>论坛：</p><ul><li>leetcode</li><li>洛谷</li></ul><p>博客：</p><ul><li><a href="http://www.oier.cc/">OIER</a></li><li><a href="https://oi-wiki.org/#oi-wiki">OI wiki</a></li><li><a href="https://www.hello-algo.com/">hello算法</a></li><li><a href="https://leetcode.cn/leetbook/read/illustration-of-algorithm/55187i/">图解数据结构和算法</a></li></ul><h1 id="计算机网络"><a href="#计算机网络" class="headerlink" title="计算机网络"></a>计算机网络</h1><p>书籍：</p><ul><li>计算机网络：自顶向下方法</li><li>TCP&#x2F;IP详解</li></ul><h1 id="软件工程"><a href="#软件工程" class="headerlink" title="软件工程"></a>软件工程</h1><p>书籍：</p><ul><li>蓝月神话</li><li>敏捷软件开发</li></ul><h1 id="设计模式"><a href="#设计模式" class="headerlink" title="设计模式"></a>设计模式</h1><p>博客：</p><ul><li><a href="https://refactoringguru.cn/design-patterns/catalog">guru设计模式</a></li><li><a href="https://design-patterns.readthedocs.io/zh_CN/latest/index.html">图说设计模式</a></li></ul><h1 id="C-学习"><a href="#C-学习" class="headerlink" title="C++学习"></a>C++学习</h1><p>书籍：</p><ul><li>C++ Primer</li><li>Effective C++</li></ul><p>博客：</p><ul><li><a href="https://hackingcpp.com/index.html">hacker cpp</a></li><li><a href="https://en.cppreference.com/w/">cppreference</a></li></ul><h1 id="优质开源项目源码学习"><a href="#优质开源项目源码学习" class="headerlink" title="优质开源项目源码学习"></a>优质开源项目源码学习</h1><ul><li>libevent</li><li>asio</li><li>git</li><li>folly</li><li>wangle</li><li>muduo</li></ul><h1 id="资源博客"><a href="#资源博客" class="headerlink" title="资源博客"></a>资源博客</h1><ul><li><a href="https://www.xiaolincoding.com/network/3_tcp/tcp_interview.html#tcp-%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E8%BF%87%E7%A8%8B%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84">小林的博客，网络，操作系统，数据库</a></li><li><a href="https://interviewguide.cn/">阿秀</a></li><li><a href="https://programmercarl.com/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80.html">代码随想录</a></li><li><a href="https://wangdoc.com/">网道，中文技术文档，ssh，bash</a></li><li><a href="https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md">teach yourself</a></li><li><a href="https://csdiy.wiki/">csdiy</a></li></ul>]]></content>
     
     
     
